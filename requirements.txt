@@ -1,0 +1,10 @@
+# Lab 1 requirements
+# Versions are pinned so results can be reproduced later.
+# Google Colab already provides these; this file is for local runs.
+
+numpy==2.5.3
+pandas==2.2.2
+
+# Notebook environment (not needed on Colab)
+jupyter==1.1.1
+ipykernel==6.30.1
